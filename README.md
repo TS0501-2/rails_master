@@ -24,3 +24,4 @@ Things you may want to cover:
 * ...
 # rails_login_settiong
 # view_setting
+# view_setting
